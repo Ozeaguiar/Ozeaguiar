@@ -53,7 +53,7 @@ Linkedin: [José Aguiar](https://www.linkedin.com/in/ozeaguiar/) | **Desenvolved
 ###
 
 <div align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ozeaguiar&theme=gruvbox&locale=pt_BR" alt="GitHub Streak"  />
+  <img src=""> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ozeaguiar&theme=gruvbox&locale=pt_BR" alt="GitHub Streak">
 </div>
 
 ###
