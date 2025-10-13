@@ -3,20 +3,19 @@
 </div>
 
 ###
+<div> 
+<p align="center"
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<a href="www.linkedin.com/in/ozeaguiar">
+<img alt="perfil.linkedin" tittle="Acesse meu perfil no Linkedin!" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="30" width="30"/>
+
 </div>
 
-###
-
-
-
-###
-
 <h1 align="center">Obrigado por acessar meu perfil👋</h1>
+
+###
+
+
 
 ###
 
@@ -24,7 +23,7 @@
 
 ###
 
-<p align="left">Me chamo José Aguiar, Brasileiro, Resido em São Paulo porém sou originario do Maranhão, tenho 22 anos e atualmente estou buscando oportunidades para me desenvolver e aprender cada vez mais sobre linguagens e suas tecnologias. Sou estudante e atualmente estou no 1º Semestre do curso de Analise e Desenvolvimento de Sistemas na FECAP Liberdade. <br><br>- 🔭 Atualmente sou estagiário de Suporte e infraestrutura de Redes<br>- 📚 Estou estudando Banco de Dados e Inteligência Artificial<br>- ⚡ No pouco tempo que tenho livre, foco nos estudos, vou a academia e gosto de sair com a minha namorada</p>
+<p align="left">Me chamo José Aguiar, Brasileiro, Resido em São Paulo porém sou natural de São Matheus do Maranhão, mas moro em SP desde que me conheço por gente, tenho 22 anos e atualmente estou buscando oportunidades para me desenvolver e aprender cada vez mais sobre linguagens e suas tecnologias. Sou estudante e atualmente estou no 1º Semestre do curso de Analise e Desenvolvimento de Sistemas na FECAP Liberdade. <br><br>- 🔭 Atualmente sou estagiário de Suporte e infraestrutura de Redes<br>- 📚 Estou estudando Banco de Dados e Inteligência Artificial<br>- ⚡ No pouco tempo que tenho livre, foco nos estudos, vou a academia e gosto de sair com a minha namorada</p>
 
 ###
 
