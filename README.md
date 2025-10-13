@@ -4,10 +4,9 @@
 
 ###
 <div> 
-<p align="center"
+<h4 href="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" align="center" 
 
-<a href="www.linkedin.com/in/ozeaguiar">
-<img alt="perfil.linkedin" tittle="Acesse meu perfil no Linkedin!" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="30" width="30"/>
+Linkedin: [José Aguiar](https://www.linkedin.com/in/ozeaguiar/) | **Desenvolvedor Back-End**
 
 </div>
 
@@ -23,11 +22,11 @@
 
 ###
 
-<p align="left">Me chamo José Aguiar, Brasileiro, Resido em São Paulo porém sou natural de São Matheus do Maranhão, mas moro em SP desde que me conheço por gente, tenho 22 anos e atualmente estou buscando oportunidades para me desenvolver e aprender cada vez mais sobre linguagens e suas tecnologias. Sou estudante e atualmente estou no 1º Semestre do curso de Analise e Desenvolvimento de Sistemas na FECAP Liberdade. <br><br>- 🔭 Atualmente sou estagiário de Suporte e infraestrutura de Redes<br>- 📚 Estou estudando Banco de Dados e Inteligência Artificial<br>- ⚡ No pouco tempo que tenho livre, foco nos estudos, vou a academia e gosto de sair com a minha namorada</p>
+<p align="left">Me chamo José Aguiar, moro em São Paulo a 21 anos, porém sou natural de São Matheus do Maranhão, tenho 22 anos e atualmente estou buscando oportunidades para me desenvolver e aprender cada vez mais sobre linguagens e suas tecnologias. Sou estudante e atualmente estou no 1º Semestre do curso de Analise e Desenvolvimento de Sistemas na FECAP Liberdade. <br><br> - 🔭 Atualmente sou estagiário de Suporte e infraestrutura de Redes<br>- 📚 Estou estudando Banco de Dados e Inteligência Artificial<br>- ⚡ No pouco tempo que tenho livre, foco nos estudos, vou a academia e gosto de sair com a minha namorada</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas!</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
