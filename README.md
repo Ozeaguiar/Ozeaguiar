@@ -1,6 +1,6 @@
 # José Antônio da Silva de Aguiar
 
-**Analista de BI | Power BI · SQL · Microsoft Fabric | Engenheiro de dados Jr. (Em formação)**
+**Analista de BI | Power BI · SQL · Microsoft Fabric**
 
 Trabalho com Business Intelligence corporativo: modelagem dimensional, processos
 de ETL e dashboards que gente usa todo dia para decidir. Na última posição,
