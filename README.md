@@ -1,59 +1,45 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/75/a4/aa/75a4aa1034a7f9284e9689d0f21b1771.gif"  />
-</div>
+# José Antônio da Silva de Aguiar
 
-###
-<div> 
-<h4 href="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" align="center" 
+**Analista de BI | Power BI · SQL · Microsoft Fabric**
 
-Linkedin: [José Aguiar](https://www.linkedin.com/in/ozeaguiar/) | **Desenvolvedor Back-End**
+Trabalho com Business Intelligence corporativo: modelagem dimensional, processos
+de ETL e dashboards que gente usa todo dia para decidir. Na última posição,
+entreguei 14 dashboards em Power BI adotados por 6 unidades operacionais e
+reduzi em 67% o tempo de geração de relatórios sobre dados de ERP.
 
-</div>
+Venho da Contabilidade, e é isso que me faz olhar o indicador antes de olhar o
+gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
 
-<h1 align="center">Obrigado por acessar meu perfil👋</h1>
+---
 
-###
+### Stack
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+- **BI:** Power BI (DAX, Power Query, RLS), Microsoft Fabric (Data Warehouse, Lakehouse, Pipelines, DataFlows)
+- **Dados:** SQL, T-SQL, modelagem dimensional, ETL
+- **Linguagens:** Python (pandas), C#
 
-###
+---
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+### Projetos
 
-###
+**[Produção de grãos no Brasil](https://github.com/Ozeaguiar/portfolio-bi-graos)**
 
-<p align="left">Me chamo José Aguiar, moro em São Paulo a 21 anos, porém sou natural de São Matheus do Maranhão, tenho 22 anos e atualmente estou buscando oportunidades para me desenvolver e aprender cada vez mais sobre linguagens e suas tecnologias. Sou estudante e atualmente estou no 1º Semestre do curso de Analise e Desenvolvimento de Sistemas na FECAP Liberdade. <br><br> - 🔭 Atualmente sou estagiário de Suporte e infraestrutura de Redes<br>- 📚 Estou estudando Banco de Dados e Inteligência Artificial<br>- ⚡ No pouco tempo que tenho livre, foco nos estudos, vou a academia e gosto de sair com a minha namorada</p>
+Pipeline ponta a ponta sobre a base de Produção Agrícola Municipal do IBGE: ingestão
+e tratamento em Python, star schema em SQL Server, dashboard em Power BI com RLS por regional.
 
-###
+<!-- Adicione os próximos projetos aqui conforme publicar. -->
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+---
 
-###
+### Contato
 
-<div align="left">
-
-  <img src="https://cdn-icons-png.flaticon.com/128/15263/15263344.png" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/873/873107.png" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/18405/18405529.png" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/15713/15713436.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/888/888867.png" height="40" alt="circleci logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥 Meu Progresso :</h3>
-
-###
-
-<div align="center">
-  <img src=""> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ozeaguiar&theme=gruvbox&locale=pt_BR" alt="GitHub Streak">
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/ozzeaguiar/) · ozzeaguiar@gmail.com · São Paulo/SP
