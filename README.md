@@ -35,10 +35,11 @@ gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
 <br>
 Pipeline ponta a ponta sobre a base de Produção Agrícola Municipal do IBGE: ingestão
 e tratamento em Python, star schema em SQL Server, dashboard em Power BI com RLS por regional.
-<br>
 
 <br>
+
 **[Mangut - Automação de Feedbacks](https://github.com/Ozeaguiar/Mangut-automacao_de_avaliacoes)**
+
 <br>
 Automação em n8n com foco na melhoria da experiência do usuário, a automação é baseada na avaliação do modelo de IA Gemini
 ela foca em trazer as avaliações do cliente de forma rapída e logo em seguida transformar em insights
