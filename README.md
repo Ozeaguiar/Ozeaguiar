@@ -25,7 +25,7 @@ gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
 
 - **BI:** Power BI (DAX, Power Query, RLS), Microsoft Fabric (Data Warehouse, Lakehouse, Pipelines, DataFlows)
 - **Dados:** SQL, T-SQL, modelagem dimensional, ETL
-- **Linguagens:** Python (pandas), C#
+- **Linguagens:** Python (pandas).
 
 ---
 
