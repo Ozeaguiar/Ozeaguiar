@@ -38,7 +38,8 @@ Pipeline ponta a ponta sobre a base de Produção Agrícola Municipal do IBGE: i
 e tratamento em Python, star schema em SQL Server, dashboard em Power BI com RLS por regional.
 
 <br>
-<br>
+
+
 **[Mangut - Automação de Feedbacks](https://github.com/Ozeaguiar/Mangut-automacao_de_avaliacoes)**
 
 <br>
