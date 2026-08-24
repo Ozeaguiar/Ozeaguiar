@@ -31,7 +31,8 @@ gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
 
 ### Projetos
 
-**[Produção de grãos no Brasil](https://github.com/Ozeaguiar/portfolio-bi-graos)**
+**[Produção de grãos no Brasil](https://github.com/Ozeaguiar/portfolio-bi-graos)** 
+<br>
 **[Mangut - Automação de Feedbacks](https://github.com/Ozeaguiar/Mangut-automacao_de_avaliacoes)**
 
 Pipeline ponta a ponta sobre a base de Produção Agrícola Municipal do IBGE: ingestão
