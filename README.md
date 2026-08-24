@@ -36,9 +36,10 @@ gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
 <br>
 Pipeline ponta a ponta sobre a base de Produção Agrícola Municipal do IBGE: ingestão
 e tratamento em Python, star schema em SQL Server, dashboard em Power BI com RLS por regional.
-
+<br>
 <br>
 
+<br> 
 
 **[Mangut - Automação de Feedbacks](https://github.com/Ozeaguiar/Mangut-automacao_de_avaliacoes)**
 
