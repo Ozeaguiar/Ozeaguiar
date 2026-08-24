@@ -43,7 +43,8 @@ e tratamento em Python, star schema em SQL Server, dashboard em Power BI com RLS
 
 <br>
 Automação em n8n com foco na melhoria da experiência do usuário, a automação é baseada na avaliação do modelo de IA Gemini
-ela foca em trazer as avaliações do cliente de forma rapída e logo em seguida transformar em insights
+ela foca em trazer as avaliações do cliente de forma rapída e logo em seguida transformar em insights;
+
 <br>
 
 <!-- Adicione os próximos projetos aqui conforme publicar. -->
