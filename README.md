@@ -2,13 +2,13 @@
 
 **Analista de BI | Power BI · SQL · Microsoft Fabric**
 
-Trabalho com Business Intelligence corporativo: modelagem dimensional, processos
-de ETL e dashboards que gente usa todo dia para decidir. Na última posição,
-entreguei 14 dashboards em Power BI adotados por 6 unidades operacionais e
-reduzi em 67% o tempo de geração de relatórios sobre dados de ERP.
+Olá, me chamo José Aguiar, sou natual de São Matheus do Maranhão - MA, moro em SP a 20 anos 
+e atualmente tenho 23 anos de idade, possuo interesse pela área de dados porém anteriormente
+cursei contabilidade pela Etec de Vila Formosa, após esse período me voltei totalmente a tecnologia
+pois era a algo que eu já gostava muito, atualmente estou em busca de me tornar engenheiro de dados
+possuo conhecimento em Excel, Power BI, automações n8n, docker, sql, t-sql, ambiente azure entre outras aplicações.
 
-Venho da Contabilidade, e é isso que me faz olhar o indicador antes de olhar o
-gráfico. Cursando Análise e Desenvolvimento de Sistemas na FECAP.
+Sinta-se a vontade para explorar meus projetos abaixo!
 
 ---
 
