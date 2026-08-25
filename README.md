@@ -1,6 +1,6 @@
 # José Antônio da Silva de Aguiar
 
-**Analista de BI | Power BI · SQL · Microsoft Fabric**
+**Analista de BI | Power BI · SQL · Microsoft Fabric · Automações · Analise e enriquecimento de dados**
 
 Olá, me chamo José Aguiar, sou natual de São Matheus do Maranhão - MA, moro em SP a 20 anos 
 e atualmente tenho 23 anos de idade, possuo interesse pela área de dados porém anteriormente
