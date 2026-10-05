@@ -49,7 +49,13 @@ ela foca em trazer as avaliações do cliente de forma rapída e logo em seguida
 
 <br>
 
-<!-- Adicione os próximos projetos aqui conforme publicar. -->
+**[Porsche-Sales-Dashboard](https://ozeaguiar.github.io/dashboard-porsche-sales/)**
+
+<br>
+Dashboard criado na aceleração de dados da DIO, projeto desenvolvido para estudo de IA's e agentes para uso de automação, limpeza, enriquecimento 
+e tratamento de dados sensíveis respeitando a LGPD mesmo com o uso de IA's (Claude Code)
+
+<br>
 
 ---
 
